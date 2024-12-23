@@ -2,6 +2,8 @@
 
 This project demonstrates my learning journey with the **LangChain framework** and the **Retrieval-Augmented Generation (RAG) agentic workflow**. The application focuses on providing insights about travel destinations by combining LangChain's powerful memory and chain-based processing with a user-friendly Streamlit interface.
 
+![LangChain Workflow](https://miro.medium.com/v2/resize:fit:720/format:webp/1*-PlFCd_VBcALKReO3ZaOEg.png)
+
 ---
 
 ## **Overview**
