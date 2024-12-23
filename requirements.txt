@@ -1,0 +1,5 @@
+ollama
+langchain-ollama
+langchain-nomic
+langchain
+streamlit
